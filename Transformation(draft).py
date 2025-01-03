@@ -792,7 +792,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": none,
+   "execution_count": None,
    "id": "68bd120a-3607-4d89-b72b-a4afbe1176d8",
    "metadata": {},
    "outputs": [],
@@ -800,7 +800,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": none,
+   "execution_count": None,
    "id": "347e89be-79f0-4c45-aa0a-ff3a00c2223f",
    "metadata": {},
    "outputs": [],
@@ -808,7 +808,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": none,
+   "execution_count": None,
    "id": "6fca78c5-2168-4873-8816-d833e774b034",
    "metadata": {},
    "outputs": [],
